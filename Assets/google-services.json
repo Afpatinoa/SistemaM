@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091091847525",
+    "project_id": "machm-d5265",
+    "storage_bucket": "machm-d5265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091091847525:android:5c8600d7fbd1842015a98c",
+        "android_client_info": {
+          "package_name": "com.AndresPatio.Sistemademachmaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091091847525-aiupn53esua786680afnut5q2j154qnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJPMMvmyjzs-xU-2dHYWKZ9PoP6xvqig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091091847525-aiupn53esua786680afnut5q2j154qnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
