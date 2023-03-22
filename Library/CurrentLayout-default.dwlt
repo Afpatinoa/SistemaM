@@ -71,10 +71,10 @@ MonoBehaviour:
     y: 30
     width: 2560
     height: 1299
-  m_MinSize: {x: 877, y: 492}
-  m_MaxSize: {x: 16002, y: 14042}
+  m_MinSize: {x: 881, y: 492}
+  m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 98
+  controlID: 55
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,10 +242,10 @@ MonoBehaviour:
     y: 0
     width: 1819
     height: 1299
-  m_MinSize: {x: 602, y: 492}
-  m_MaxSize: {x: 12002, y: 14042}
+  m_MinSize: {x: 605, y: 492}
+  m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 99
+  controlID: 56
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -268,10 +268,10 @@ MonoBehaviour:
     y: 0
     width: 1819
     height: 848
-  m_MinSize: {x: 602, y: 221}
-  m_MaxSize: {x: 12002, y: 4021}
+  m_MinSize: {x: 605, y: 221}
+  m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 100
+  controlID: 57
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -291,8 +291,8 @@ MonoBehaviour:
     y: 0
     width: 518
     height: 848
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -370,14 +370,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: D:\Uni\Firebase\Sistema de machmaking
+  m_LastProjectPath: D:\Uni\repo7\mTCHMEIKING\SistemaM
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a3c0000
-    m_LastClickedID: 15466
-    m_ExpandedIDs: 000000006a3c00004c5400005254000000ca9a3b
+    m_SelectedIDs: 44390000
+    m_LastClickedID: 14660
+    m_ExpandedIDs: 000000003c3900003e39000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -405,7 +405,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000003c3900003e390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -432,7 +432,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300008c57000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -530,7 +530,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: fc3cffff2640ffff3a40ffff6841ffff7c41ffff9e42ffffc042fffff244fffff444ffffe045fffff245fffffc45ffff2246ffff3046ffff4e46ffff6448ffff9c48ffffe656ffff8663ffff4266ffffba67ffff3268ffffa668ffffcc69ffffe06afffff26affffd66bffff226cffff4e6dffff166fffff706fffff846fffff5e77ffff6c77ffff9a77ffffe08cfffffa8dffff0c8effff1a8effff508effff648effffbeaaffffb2b3fffff2c9ffff0acaffff16caffff30caffff88d3ffff4ed4ffff7cd4ffff8ad4ffffcad4ffffdad4ffffead4fffffad4ffff0ad5ffffd6dcffffe6dcfffff6dcffff38fbffff1a5b0000525b0000a85b0000145c0000826a0000946a0000d26a0000286b0000f8740000347b0000547b00006c7b00008c7b0000687f0000947f0000d094000088950000
+      m_ExpandedIDs: 6cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -592,7 +592,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 388.52774, y: 959.5937, z: -1870.2092}
     speed: 2
-    m_Value: {x: 362.34866, y: 969.324, z: -1867.0286}
+    m_Value: {x: 388.52774, y: 959.5937, z: -1870.2092}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -644,7 +644,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 844.0204
     speed: 2
-    m_Value: 883.79095
+    m_Value: 844.0204
   m_Ortho:
     m_Target: 1
     speed: 2
