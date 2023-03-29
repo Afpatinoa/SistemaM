@@ -3246,7 +3246,7 @@ GameObject:
   - component: {fileID: 1180772250}
   - component: {fileID: 1180772249}
   m_Layer: 0
-  m_Name: AuthManager
+  m_Name: AuthManager1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
